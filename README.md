@@ -1,2 +1,3 @@
 # clustering
-Clustering with GPy
+Clustering with GPy:
+A set of jupyter notebooks to demonstrate the tool.
